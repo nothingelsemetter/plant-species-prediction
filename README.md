@@ -4,6 +4,7 @@ This project was created to predict plant species using convolutional neural net
 Dataset
 
 Sourse: https://www.kaggle.com/datasets/kacpergregorowicz/house-plant-species
+
 The dataset consists of 47 plant species.
 
 Processing steps include:
