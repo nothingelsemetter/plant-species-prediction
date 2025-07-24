@@ -30,7 +30,7 @@ Training
 * Loss Function: CrossEntropyLoss
 * Optimizer: Adam / SGD
 
-Model improvement 
+Potential steps for improvement
 
 * Splitting species into variegated and non-variegated forms
 * Delete artificially created images
